@@ -1,2 +1,3 @@
 # shell-scripts
-Coleção de SCRIPTS uteis
+
+Some useful shell scripts collections.
